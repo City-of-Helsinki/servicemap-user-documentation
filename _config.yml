@@ -1,0 +1,3 @@
+encoding: utf-8
+title: Pääkaupunkiseudun palvelukartta
+exclude: ['Gemfile.lock', 'Gemfile']
